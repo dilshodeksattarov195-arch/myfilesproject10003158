@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorcender",
+        "uuid": 814764,
+        "checksum": "kdiv1g"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
